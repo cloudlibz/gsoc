@@ -1,4 +1,4 @@
-# GSoC
+# Google Summer of Code 2020
 
 Cloudlibz GSoC Resources.
 
